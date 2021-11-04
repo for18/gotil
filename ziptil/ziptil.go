@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/TruthHun/gotil/filetil"
-	"github.com/TruthHun/gotil/strtil"
+	"github.com/jmt99/gotil/filetil"
+	"github.com/jmt99/gotil/strtil"
 )
 
 //解压zip文件
